@@ -40,3 +40,8 @@ No arquivo `modules/client_ui_inspector/ui_inspector.lua`:
 ## Observacoes
 - O contorno original do widget e restaurado automaticamente ao mudar o hover
   ou desativar o inspector.
+
+## Preview
+https://github.com/user-attachments/assets/65cbe14e-fe9e-4e39-adba-ac26a9d8a22b
+
+
