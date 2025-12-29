@@ -2,6 +2,13 @@
 
 Tutorial rapido para usar o modulo `client_ui_inspector` no OTClient.
 
+## Instalacao
+1) Copie a pasta `client_ui_inspector` para o diretorio `modules/` do OTClient.
+2) Adicione a seguinte linha no arquivo `modules/client/client.otmod`:
+   ```
+    - client_ui_inspector
+   ```
+
 ## O que ele faz
 - Ao passar o mouse sobre um widget, mostra um tooltip com o caminho do widget
   e o `id`.
